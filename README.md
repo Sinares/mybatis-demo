@@ -1,2 +1,2 @@
 # mybatis-demo
-联系用mybatisdemo
+练习用mybatisdemo
